@@ -4,7 +4,7 @@
 
 ## 👀 About Me
 - 🔧 I’m deeply interested in **Web Development** and **Mobile App Development**
-- 🌱 Currently learning **Flutter** & **React.js**
+- 🌱 Currently learning **Flutter** For Mobile App Building
 - 💻 I enjoy working on **Backend Development** using **PHP, jQuery Ajax**, and **MySQL**
 - 💡 Exploring **Data Structures & Algorithms (DSA)** for better problem-solving
 - 🤝 Looking to collaborate on **backend-heavy web projects** or **full-stack applications**
